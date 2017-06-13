@@ -19,5 +19,7 @@ Merupakan aplikasi yang mengambil API dari satu website yang digunakan utnuk men
 aplikasi menggunakan API dari TMDb (The Movie Databases) Yang berisi data -data film mulai dari judul, poster hingga sinopsis 
 dari API tersebut. Film yang sedang populer ataupun sedang tayang bahkan yang memiliki rate dari yang paling tinggi yang rate yang 
 paling rendah bisa kita lihat juga. Selain itu, kita juga dapat melihat film yang akan tayang nantinya. <br>
-<br>
-
+<br> <br> 
+https://drive.google.com/open?id=0B7U0GzVlo99VbEdSZ1JWbzJrMGM <br> 
+https://drive.google.com/open?id=0B7U0GzVlo99Vb25CTzBUbzYweGs <br> 
+https://drive.google.com/open?id=0B7U0GzVlo99VcEZOTnFJMlJFdzg <br> 
