@@ -23,3 +23,7 @@ paling rendah bisa kita lihat juga. Selain itu, kita juga dapat melihat film yan
 https://drive.google.com/open?id=0B7U0GzVlo99VbEdSZ1JWbzJrMGM <br> 
 https://drive.google.com/open?id=0B7U0GzVlo99Vb25CTzBUbzYweGs <br> 
 https://drive.google.com/open?id=0B7U0GzVlo99VcEZOTnFJMlJFdzg <br> 
+
+![Screenshot](http://imgur.com/jGo19Ms) <br> 
+![Screenshot](http://imgur.com/8hs2HDV) <br> 
+![Screenshot](http://imgur.com/01Bybvn) <br> 
